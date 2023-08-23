@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8CxdasS5muDWd8iB7BDvrr6q0kTvAwlGOfq9W6FuQ8aYouVBrQBwfQLwbyQ0b7TrdDQUYlfu4Bwys7j9tYyUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marco Torres\\Documents\\VSProjects\\statesidedotnet\\StatesideJokes\\StatesideJokes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.0\\microsoft.extensions.configuration.binder.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.logging.configuration\\7.0.0\\microsoft.extensions.logging.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.logging.console\\7.0.0\\microsoft.extensions.logging.console.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\7.0.0\\microsoft.extensions.options.configurationextensions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Marco Torres\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
